@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "DEADSHOTSMP.aternos.me:15096",
+    "ip": "DEADSHOTSMP.aternos.me",
     "port": 15096,
     "version": "",
     "try-creative": false
